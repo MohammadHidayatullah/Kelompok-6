@@ -1,3 +1,3 @@
 # Kelompok-6
-repository WSIB Web ada di organitation
-Workshop Sistem Informasi Berbasis Web
+repository WSIB Web ada di organitation,
+silahkan cek di organitatios.
